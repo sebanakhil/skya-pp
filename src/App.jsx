@@ -941,7 +941,7 @@ export default function App() {
         }
       `}</style>
 
-      <div style={{ maxWidth: 560, margin: "0 auto", padding: "32px 16px 64px" }}>
+      <div style={{ maxWidth: 560, margin: "0 auto", padding: "20px 10px 40px" }}>
         <header style={{ textAlign: "center", marginBottom: 32 }}>
           <div
             style={{
